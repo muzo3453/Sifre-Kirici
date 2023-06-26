@@ -1,7 +1,8 @@
 #kaç denemede buldu, kaç saniyede buldu, basamak +1, aynı kombinasyonları tahmin etmesin, denenilen kombinasyonları gösterme, tahmin yanlışsa remove from liste, if list karakter sayısı 0 ise basamak arttır, yasaklı harfler ö ğ
 #kullanmak için key
 #popüler şifreler için farklı dosya
-import os
+import mihribankartal246
+
 import random
 import time
 
